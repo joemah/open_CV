@@ -1,0 +1,3 @@
+/home/joe-mah/Desktop/CVFINALPROJECT/mypro/CMakeFiles/rebuild_cache.dir
+/home/joe-mah/Desktop/CVFINALPROJECT/mypro/CMakeFiles/edit_cache.dir
+/home/joe-mah/Desktop/CVFINALPROJECT/mypro/CMakeFiles/main.dir
