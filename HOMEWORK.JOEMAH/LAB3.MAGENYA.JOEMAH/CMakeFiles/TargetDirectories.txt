@@ -1,0 +1,3 @@
+/home/joe-mah/Desktop/openCV/HOMEWORK.JOEMAH/LAB3.MAGENYA.JOEMAH/CMakeFiles/rebuild_cache.dir
+/home/joe-mah/Desktop/openCV/HOMEWORK.JOEMAH/LAB3.MAGENYA.JOEMAH/CMakeFiles/edit_cache.dir
+/home/joe-mah/Desktop/openCV/HOMEWORK.JOEMAH/LAB3.MAGENYA.JOEMAH/CMakeFiles/main.dir

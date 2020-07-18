@@ -1,0 +1,3 @@
+/home/joe-mah/Desktop/openCV/homework1/CMakeFiles/rebuild_cache.dir
+/home/joe-mah/Desktop/openCV/homework1/CMakeFiles/edit_cache.dir
+/home/joe-mah/Desktop/openCV/homework1/CMakeFiles/main.dir
